@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: weibo
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://weibo.com/u/1658183071
 url_code: ""
 url_pdf: ""
 url_slides: ""
