@@ -25,7 +25,7 @@ organizations:
     url: https://www.accenture.com/
 education:
   courses:
-    - course: Certificated Finance Analyst
+    - course: Chartered Financial Analyst
       institution: CFA
       year: 2020
     - course: Financial Risk Manager
