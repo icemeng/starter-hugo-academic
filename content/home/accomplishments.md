@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://basno.com/7xaa456u
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021-03-01"
+  description: The CFA charter gives you expertise and real-world skills in investment analysis.
+  organization: CFA Institiute
+  organization_url: https://www.cfainstitute.org/
+  title: Chartered Financial Analyst
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://mygarp.force.com/DigitalBadgeFRM?id=0034000001kd7b2AAA
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2017-12-01"
+  description: Recognized in every major market, the FRM is the leading certification for risk managers.
+  organization: GARP
+  organization_url: https://www.garp.org/
+  title: Financial Risk Manager
+  url: ""
+- certificate_url: https://www.credly.com/badges/7a793d4c-6da1-4690-ba32-dcfef617fa05
+  date_end: ""
+  date_start: "2021-02-24"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Amazon
+  organization_url: https://aws.amazon.com/
+  title: 'AWS Certified Solutions Architect – Professional'
   url: ""
 
 design:
