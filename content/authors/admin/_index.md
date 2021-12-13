@@ -1,6 +1,7 @@
 ---
 title: Meng Lipeng
 role: CFA, FRM
+avatar_filename: docker-friends.png
 bio: My research interests include quantitive finance, risk management in
   finance, data analysis.
 interests:
@@ -8,15 +9,17 @@ interests:
   - Python in Finance
   - Machine Learning in Finance
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: menglipeng@yahoo.com
   - icon: github
     icon_pack: fab
     link: https://github.com/icemeng
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lipeng-meng-68578677/
+  - display:
+      header: false
+    link: menglieng@yahoo.com
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: Accenture
     url: https://www.accenture.com/
