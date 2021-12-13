@@ -47,14 +47,6 @@ item:
   organization_url: https://aws.amazon.com/
   title: 'AWS Certified Solutions Architect – Professional'
   url: ""
-- organization: Coursera
-  organization_url: 'https://www.coursera.org'
-  title: Neural Networks and Deep Learning
-  url: ''
-  certificate_url: 'https://www.coursera.org'
-  date_start: '2018-10-01'
-  date_end: ''
-  description: ''
 
 design:
   columns: '2' 
