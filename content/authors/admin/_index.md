@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: menglipeng@yahoo.com
   - icon: github
     icon_pack: fab
     link: https://github.com/icemeng
@@ -24,7 +24,7 @@ education:
   courses:
     - course: Certificated Finance Analyst
       institution: CFA
-      year: 2017
+      year: 2020
     - course: Financial Risk Manager
       institution: GARP
       year: 2017
