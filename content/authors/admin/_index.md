@@ -1,7 +1,7 @@
 ---
 title: Meng Lipeng
 role: CFA, FRM
-avatar_filename: docker-friends.png
+avatar_filename: avatar.jpg
 bio: My research interests include quantitive finance, risk management in
   finance, data analysis.
 interests:
@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/lipeng-meng-68578677/
   - display:
       header: false
-    link: menglieng@yahoo.com
+    link: mailto:menglieng@yahoo.com
     icon_pack: fas
     icon: envelope
 organizations:
