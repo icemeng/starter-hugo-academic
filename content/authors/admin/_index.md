@@ -40,4 +40,4 @@ highlight_name: true
 ---
 Meng Lipeng is a consultant of finance service at the Accenture Co.Ltd. His research interests include quantitive finance, risk management in finance, data analysis. He leads the risk management team, which develops risk management systems for security company.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
