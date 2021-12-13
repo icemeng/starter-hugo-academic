@@ -27,7 +27,7 @@ feature:
 - description: 90%
   icon: aws
   icon_pack: fab
-  name: Photography
+  name: AWS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
