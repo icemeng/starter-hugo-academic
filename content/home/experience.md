@@ -25,7 +25,7 @@ experience:
   - title: Consultant
     company: Accenture
     company_url: ''
-    company_logo: accenture
+    company_logo: org-ac
     location: Shanghai
     date_start: '2014-11-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer
     company: Huawei
     company_url: ''
-    company_logo: Huawei-logo
+    company_logo: org-hw
     location: Shanghai
     date_start: '2011-07-01'
     date_end: '2014-10-31'
