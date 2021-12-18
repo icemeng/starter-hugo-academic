@@ -1,7 +1,7 @@
 ---
 title: Meng Lipeng
 role: CFA, FRM
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include quantitive finance, risk management in
   finance, data analysis.
 interests:
